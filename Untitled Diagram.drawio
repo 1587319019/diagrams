@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T09:14:40.335Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="x_kQbw2DOMqaeaYXDXqB" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T09:34:54.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Pry02GhGZSbjjvUzW97L" version="16.0.3" type="github">
   <diagram id="_qMk1PFGul8xdEtNDIoM" name="第 1 页">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="9hscWAj8tTcfIYD4YJay-33" value="register" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9hscWAj8tTcfIYD4YJay-46">
           <mxGeometry x="505" y="135" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9hscWAj8tTcfIYD4YJay-34" value="deploy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9hscWAj8tTcfIYD4YJay-46">
+        <mxCell id="9hscWAj8tTcfIYD4YJay-34" value="update" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9hscWAj8tTcfIYD4YJay-46">
           <mxGeometry x="595" y="135" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9hscWAj8tTcfIYD4YJay-45" value="" style="group" vertex="1" connectable="0" parent="9hscWAj8tTcfIYD4YJay-46">
